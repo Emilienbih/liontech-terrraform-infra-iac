@@ -4,7 +4,7 @@ terraform {
 
         bucket  = "liontech-class20-july23-demo"
         key     =  "liontech-remote-state/s3-remote-state-demo"
-        region  = "us-east-1"
+        region  = "ca-central-1"
     }
 
 
